@@ -1,5 +1,5 @@
-# HomeRepair-WechatMiniProgram
-家电报修微信小程序（待完善）
+# HomeRepair
+家电报修微信小程序+web后台（待完善）
 
 
 
